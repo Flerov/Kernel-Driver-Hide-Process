@@ -9,4 +9,4 @@ Furthermore you can simply find your UniqueProcessId offset by debugging the nt!
 - debug the EPROCESS structure by running -> dt nt!_EPROCESS
 - search for the UniqueProcessId - Offset
 --------------------
-![alt text](https://github.com/Flerov/Kernel-Driver-Hide-Process/blob/misc/FlinkBlink.jpeg?raw=true)
+
