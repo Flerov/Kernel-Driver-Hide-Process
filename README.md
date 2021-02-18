@@ -1,4 +1,5 @@
 # Kernel-Driver-Hide-Process
+! compile as Debug or fix every _tprintf. The choice is yours
 This Kernel Driver makes anny Running Appplication invisible for TaskManager
 
 !This Project was build and tested on a Windows10 Virtual Machin Build Version 19041!
